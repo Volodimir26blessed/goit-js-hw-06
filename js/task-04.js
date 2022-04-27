@@ -35,3 +35,4 @@ dicrementEl.addEventListener("click", function () {
 // };
 
 // button.addEventListener("click", handleClick);
+// 1. Объявление параметров x, y, z
